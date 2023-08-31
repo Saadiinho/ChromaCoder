@@ -2,7 +2,12 @@
     color: #434342;
     font-family: 'Exo', sans-serif;
 }
-
+.languages{
+	background-image: url("media/languages.png");
+	height: 85vh;
+	width: 100%;
+	background-size: cover;
+}
 .bg-image{
     background-image: url("media/background.png");
     background-repeat: no-repeat;
