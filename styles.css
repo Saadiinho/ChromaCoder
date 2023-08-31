@@ -24,6 +24,16 @@
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
     transition: 0.2s;
 }
+.title h3::before{
+	content: '';
+	position: absolute;
+	left:0;
+	bottom: -10px;
+	background-color: #e91e63;
+	height: 2px;
+	box-sizing: border-box;
+	width: 50px;
+}
 
 *{
 	margin:0;
