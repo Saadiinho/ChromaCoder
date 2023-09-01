@@ -18,14 +18,14 @@
 }
 
 .btn-link{
-    background-color: #00008B;
+    background-color: #e91e63;
     color: #fff;
     text-decoration: none;
 }
 .btn-link:hover{
     background-color: #fff;
-    color: #00008B;
-    border: 1px solid #00008B;
+    color: #e91e63;
+    border: 1px solid #e91e63;
 }
 .card-link:hover{
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
